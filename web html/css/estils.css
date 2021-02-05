@@ -1,0 +1,22 @@
+a:link {
+    color:blue;
+    text-decoration: none
+    }
+a:visited {
+     color: black;
+    }
+a:hover { 
+    color: darkviolet; 
+    font-weight: bold
+    }
+a:active { 
+    color: yellowgreen;
+    }
+.hits {
+        color: rgb(255, 76, 94);
+        text-shadow: rgb(0 0 0) 2px 0px 1px, rgb(0 0 0) 0px 1px 1px, rgb(0 0 0) -1px 0px 1px, rgb(0 0 0) 0px -1px 1px;
+        font-size: 200%;
+    }
+b2 {
+    font-size: 200%;
+}
